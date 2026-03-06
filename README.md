@@ -4,6 +4,15 @@ Dash Board OverView:
 
 <img width="1014" height="522" alt="image" src="https://github.com/user-attachments/assets/bc59705b-8644-45b1-aef4-d13c02bb3568" />
 
+Skills Demonstrated
+
+- SQL Data Analysis
+- Data Aggregation and KPI Calculation
+- Business Insights Extraction
+- Data Visualization
+- Excel Pivot Tables
+- Dashboard Development
+
 Project Overview:
 
 -This project analyzes a pizza store's sales data to uncover key business insights using SQL and Excel. The dataset was queried in SQL to calculate important KPIs and analyze sales patterns. The results were then visualized in an interactive Excel dashboard to help understand product performance, sales trends, and customer ordering behavior.
