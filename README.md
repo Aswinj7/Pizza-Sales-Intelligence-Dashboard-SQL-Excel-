@@ -41,9 +41,9 @@ Total records analyzed: 48,000+ rows of sales data
 
 Tools Used:
 
-1)SQL – Data querying and KPI calculations
-2)Microsoft Excel – Pivot tables and dashboard creation
-3)Data Visualization – Charts, slicers, and timelines
+- SQL – Data querying and KPI calculations
+- Microsoft Excel – Pivot tables and dashboard creation
+- Data Visualization – Charts, slicers, and timelines
 
 Key KPIs Calculated:
 
