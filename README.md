@@ -15,16 +15,15 @@ Skills Demonstrated
 
 Project Overview:
 
--This project analyzes a pizza store's sales data to uncover key business insights using SQL and Excel. The dataset was queried in SQL to calculate important KPIs and analyze sales patterns. The results were then visualized in an interactive Excel dashboard to help understand product performance, sales trends, and customer ordering behavior.
+This project analyzes a pizza store's sales data to uncover key business insights using SQL and Excel. The dataset was queried in SQL to calculate important KPIs and analyze sales patterns. The results were then visualized in an interactive Excel dashboard to help understand product performance, sales trends, and customer ordering behavior.
 
 Business Problem:
-
-1)The goal of this project was to analyze sales data to answer important business questions such as:
-2)What is the total revenue generated?
-3)What is the average order value?
-4)Which days and hours generate the most orders?
-5)Which pizza categories and sizes sell the most?
-6)What are the top-selling and worst-selling pizzas?
+The goal of this project was to analyze sales data to answer important business questions such as:
+- What is the total revenue generated?
+- What is the average order value?
+- Which days and hours generate the most orders?
+- Which pizza categories and sizes sell the most?
+- What are the top-selling and worst-selling pizzas?
 These insights can help businesses optimize menu strategy, staffing, and promotions.
 
 Dataset:
